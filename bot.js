@@ -146,4 +146,4 @@ m.createChannel('✺ AFK ,', 'voice');
  
 });
  
-LOka.login("NTc0NjExMDczMjYxNjMzNTQ3.XM76dg._Rh9NujydJLW3eKET4GhPCArkqs")
+LOka.login("NTc0NjQxMzE3NTQ0NzIyNDMy.XM8XMw.Or2Zyux-T4k9ZabgKSj5AgjsWJE")
